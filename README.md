@@ -22,3 +22,5 @@ How to?
 2. Extract and Copy folder to Documents > RainMeter > Skins > Spicetify > Themes
 3. Open Spicetify and select theme (iSpotify)
 4. Apply
+
+<center><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/b4fef334-3e41-4e0c-93a8-b8eb92e9ce93/dd05izj-4abbcbb3-ed81-4166-9da7-13679cdbdda8.jpg"></center>
